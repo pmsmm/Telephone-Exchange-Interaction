@@ -31,7 +31,7 @@ To start the game you must first type in the Arduino IDE serial monitor the foll
 
 - > COM:START;ID:123456789
 
-This command will then print in the Serial Monitor the solution of the game which then needs to be introduced using the keypad. If the introduced code is correct then the following message will appear in the serial monitor:
+Once all the wires are correctly connected the following message will appear on the Arduino IDE Serial Monitor:
 
 - > COM:INTERACTION_SOLVED;MSG:User Connected Wires Correctly;PNT:750
 

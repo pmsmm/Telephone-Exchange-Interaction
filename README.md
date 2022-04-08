@@ -6,9 +6,9 @@ This mini game, or interaction as I so call it, was developed to be part of an E
 
 ## List of Components
 
-- [Banana Plug](https://pt.aliexpress.com/item/1005001265835623.html?gatewayAdapt=glo2bra&spm=2114.13010708.0.0.3a99b90alBsLK1) (4x);
+- [Banana Plug](https://pt.aliexpress.com/item/1005001265835623.html?gatewayAdapt=glo2bra&spm=2114.13010708.0.0.3a99b90alBsLK1) (8x);
 - [Banana Socket](https://pt.aliexpress.com/item/1005001265835623.html?gatewayAdapt=glo2bra&spm=2114.13010708.0.0.3a99b90alBsLK1) (4x);
-- 220Ω Resistor (2x);
+- 220Ω Resistor (4x);
 - Arduino Nano (1x);
 
 ![Wiring Diagram](images/WiringDiagram.jpg)
